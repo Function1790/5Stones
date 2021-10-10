@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="FiveStones.Stone"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FiveStones"
+             mc:Ignorable="d"
+             d:DesignHeight="32" d:DesignWidth="32">
+    <Grid>
+        <Rectangle x:Name="Black" Opacity="0" HorizontalAlignment="Left" Height="32" StrokeThickness="0,0,0,0" VerticalAlignment="Top" Width="32">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="BlackStone.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle x:Name="White" HorizontalAlignment="Left" Height="32" StrokeThickness="0,0,0,0" VerticalAlignment="Top" Width="32">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="WhiteStone.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,17 @@
+D:\WPF2\FiveStones\FiveStones\bin\Debug\FiveStones.exe.config
+D:\WPF2\FiveStones\FiveStones\bin\Debug\FiveStones.exe
+D:\WPF2\FiveStones\FiveStones\bin\Debug\FiveStones.pdb
+D:\WPF2\FiveStones\FiveStones\obj\Debug\MainWindow.g.cs
+D:\WPF2\FiveStones\FiveStones\obj\Debug\App.g.cs
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones_MarkupCompile.cache
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones_MarkupCompile.lref
+D:\WPF2\FiveStones\FiveStones\obj\Debug\MainWindow.baml
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones.g.resources
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones.Properties.Resources.resources
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones.csproj.GenerateResource.cache
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones.csproj.CoreCompileInputs.cache
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones.exe
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones.pdb
+D:\WPF2\FiveStones\FiveStones\obj\Debug\Stone.g.cs
+D:\WPF2\FiveStones\FiveStones\obj\Debug\Stone.baml
+D:\WPF2\FiveStones\FiveStones\obj\Debug\FiveStones.csprojAssemblyReference.cache
